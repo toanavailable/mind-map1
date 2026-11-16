@@ -37,6 +37,5 @@ Lúc này mỗi lượt mượn đều gắn với đúng một `student_id`, n�
 
 ## File trong repository
 
-- `student-borrow-erd.drawio`: file gốc, mở bằng [draw.io](https://app.diagrams.net). File có 2 trang: ERD sau khi sửa và ERD ban đầu.
 - `erd-sau-khi-sua.png`: ảnh ERD đã sửa, thuộc tính mới thêm được tô xanh.
 - `erd-ban-dau-sai.png`: ảnh ERD ban đầu, để so sánh.
