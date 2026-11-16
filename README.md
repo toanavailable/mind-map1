@@ -35,6 +35,11 @@ Thêm thuộc tính **<u>student_id</u>** (mã sinh viên, in trên thẻ sinh v
 
 Lúc này mỗi lượt mượn đều gắn với đúng một `student_id`, nên thư viện luôn biết chính xác ai đang giữ sách.
 
+## 4. Link vẽ draw.io
+
+- Mô hình ERD trước khi sửa: https://drive.google.com/file/d/11d3TQtGKT9KUmGwrQECnwHcnB-u-89Uz/view?usp=sharing
+- Mô hình ERD sau khi sửa: https://drive.google.com/file/d/1KWxmLTEO-oNpLEJTELBx62O2_H0Fc_Ik/view?usp=sharing
+
 ## File trong repository
 
 - `erd-sau-khi-sua.png`: ảnh ERD đã sửa, thuộc tính mới thêm được tô xanh.
